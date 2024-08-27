@@ -28,3 +28,4 @@ C:\server\aspnetcoreapp\obj\Debug\net8.0\refint\aspnetcoreapp.dll
 C:\server\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.pdb
 C:\server\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.genruntimeconfig.cache
 C:\server\aspnetcoreapp\obj\Debug\net8.0\ref\aspnetcoreapp.dll
+C:\server\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.sourcelink.json
